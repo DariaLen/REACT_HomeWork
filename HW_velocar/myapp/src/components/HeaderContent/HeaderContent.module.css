@@ -1,0 +1,36 @@
+.content{
+    display: flex;
+    width: 1140px;
+    margin: 0 auto;
+    padding-top: 126px;
+    gap: 50px;
+}
+.head{
+    color: #22356F;
+    font-family: ABeeZee;
+    font-size: 48px;
+    font-style: italic;
+    font-weight: 400;
+    height: 90px;
+    width: 610px;
+}
+.head_text{
+    color: #22356F;
+    font-family: ABeeZee;
+    font-size: 24px;
+    font-style: normal;
+    line-height: 177.3%;
+}
+.wrapper{
+    padding-top: 119px;
+}
+.content_wrap{
+    display: flex;
+    flex-direction: column;
+    gap: 46px;
+    /* width: 600px; */
+}
+.image{
+    width: 543px;
+    height: 533px;
+}

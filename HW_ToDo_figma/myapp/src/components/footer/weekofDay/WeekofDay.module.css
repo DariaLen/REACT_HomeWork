@@ -1,0 +1,46 @@
+
+
+.wrapper {
+    width: 253px;
+    border: 1px solid black;
+    /* position: absolute; */
+    min-width: 150px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+
+
+
+
+
+ul {
+    position: absolute;
+    top: 30px;
+    right: 1px;
+    width: 250px;
+    /* border: 1px solid black; */
+    border-radius: 7px;
+    text-transform: uppercase;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 0;
+    /* opacity: 0; */
+    transform: translateY(-20px); /* Исходное смещение вверх */
+   display: none;
+    transition: opacity 0.3s, transform 0.3s;
+  }
+  
+  .active {
+    cursor: pointer;
+    display: block;
+    transform: translateY(0);
+    /* opacity: 1; */
+  }
+
+.active li{
+    border: 1px solid black;
+}

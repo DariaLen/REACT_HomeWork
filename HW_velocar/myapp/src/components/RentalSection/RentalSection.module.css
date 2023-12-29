@@ -1,0 +1,25 @@
+.wrapper{
+    display: flex;
+    gap: 67px;
+
+}
+.image{
+    width: 637px;
+    height: 800px;
+}
+.text{
+    margin: 0 auto;
+    color: #22356F;
+    font-family: ABeeZee;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 147.75%;
+    letter-spacing: -0.36px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 49px;
+
+}

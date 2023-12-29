@@ -1,0 +1,9 @@
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.wrapper > input{
+    width: 545px;
+    height: 45px;
+}

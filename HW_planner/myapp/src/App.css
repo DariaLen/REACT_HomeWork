@@ -1,0 +1,80 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+.renderTask{
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  cursor: pointer;
+}
+
+.tasksForm{
+  border-radius: 20px;
+  background: #ECF0F1;
+  padding: 15px;
+}
+/* .renderTask div{
+display: flex;
+} */
+/* .tasksForm{
+  width: 1088px;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+} */
+.wrap{
+  display: flex;
+  justify-content: space-between;
+  width: 1088px;
+  position: relative;
+  
+}
+
+.h3{
+  display: flex;
+  align-items: center;
+
+}
+
+.task_wrap{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap:15px;
+  width: 1000px;
+  padding-left: 30px;
+}
+
+.tasks{
+  width: 250px;
+  height: 40px;
+}
+.tasks p{
+display: flex;
+width: 250px;
+height: 39px;
+justify-content: center;
+box-sizing: border-box;
+border: 1px solid black;
+color: white;
+position: relative;
+justify-content: start;
+padding: 3px;
+}
+.delete_btn{
+  position: absolute;
+  left: 215px;
+  top: 5px;
+}
+ .del_day{
+position: absolute;
+right: -24px;
+top: -26px;
+display: none;
+} 
+.wrap:hover  .del_day{
+  display: block;
+}

@@ -1,0 +1,23 @@
+.rating {
+    display: flex;
+    align-items: center;
+    font-size: 24px; 
+  }
+  
+  .fa {
+    margin-right: 5px; 
+    width: 10px;
+    height: 10px;
+    color: black;
+  }
+  
+  .active {
+    color: orange; 
+
+  }
+/* .fa-star.active{
+    color: orange; 
+ } */
+ /* div span .fa-star.active{
+    color: orange; 
+ } */
