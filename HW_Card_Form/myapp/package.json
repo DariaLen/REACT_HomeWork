@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build -e HW_Card_Form/myapp"
   },
   "eslintConfig": {
     "extends": [
@@ -38,5 +38,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/DariaLen/REACT_HomeWork/HW_Card_Form"
+  "homepage": "https://github.com/DariaLen/REACT_HomeWork"
 }
