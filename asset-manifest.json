@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DariaLen/REACT_HomeWork/tree/main/HW_Card_Form/myapp/static/css/main.7848d024.css",
+    "main.js": "/DariaLen/REACT_HomeWork/tree/main/HW_Card_Form/myapp/static/js/main.477dacb3.js",
+    "index.html": "/DariaLen/REACT_HomeWork/tree/main/HW_Card_Form/myapp/index.html",
+    "main.7848d024.css.map": "/DariaLen/REACT_HomeWork/tree/main/HW_Card_Form/myapp/static/css/main.7848d024.css.map",
+    "main.477dacb3.js.map": "/DariaLen/REACT_HomeWork/tree/main/HW_Card_Form/myapp/static/js/main.477dacb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7848d024.css",
+    "static/js/main.477dacb3.js"
+  ]
+}
