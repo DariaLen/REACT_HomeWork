@@ -1,0 +1,33 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    padding-left: 150px;
+
+}
+
+.table{
+    border-radius: 20px;
+    width: 800px;
+    border-radius: 30px;
+    border: 20px solid rgba(146, 193, 251, 0.863);
+    
+    text-align:left;
+    border-collapse: collapse;
+
+}
+.table th,
+.table td {
+    border: 1px solid #898989; 
+    padding: 8px; 
+
+  }
+  
+ 
+.table thead th {
+    background-color: #d8d8d8; 
+ 
+  }
+  
+
+ 
+  
