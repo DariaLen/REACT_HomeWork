@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/DariaLen/REACT_HomeWork/static/css/main.7848d024.css",
-    "main.js": "/DariaLen/REACT_HomeWork/static/js/main.477dacb3.js",
-    "index.html": "/DariaLen/REACT_HomeWork/index.html",
-    "main.7848d024.css.map": "/DariaLen/REACT_HomeWork/static/css/main.7848d024.css.map",
-    "main.477dacb3.js.map": "/DariaLen/REACT_HomeWork/static/js/main.477dacb3.js.map"
+    "main.css": "/HW_Card_Form/myapp/static/css/main.7848d024.css",
+    "main.js": "/HW_Card_Form/myapp/static/js/main.477dacb3.js",
+    "index.html": "/HW_Card_Form/myapp/index.html",
+    "main.7848d024.css.map": "/HW_Card_Form/myapp/static/css/main.7848d024.css.map",
+    "main.477dacb3.js.map": "/HW_Card_Form/myapp/static/js/main.477dacb3.js.map"
   },
   "entrypoints": [
     "static/css/main.7848d024.css",
